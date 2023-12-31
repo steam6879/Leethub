@@ -1,12 +1,14 @@
 class Solution:
     def maxLengthBetweenEqualCharacters(self, s: str) -> int:
-        first_index = {}
-        ans = -1
-        
-        for i in range(len(s)):
-            if s[i] in first_index:
-                ans = max(ans, i - first_index[s[i]] - 1)
-            else:
-                first_index[s[i]] = i
+        slist = list(s)
+        n = len(slist)
+        s_table = {}
+        r = -1
 
-        return ans
+        for i in range(n):
+            if slist[i] in s_table:
+                r = max(r, i - s_table[slist[i]] - 1)
+            else:
+                s_table[slist[i]] = i
+                
+        return r
