@@ -1,16 +1,23 @@
+
+##zip 함수를 이용
+같은 문자만 튜플로 나열한 후 tuple type를 set type로 바꾸어 중복을 제거하고 if len(set(a)) == 1 을 이용하는 아이디어이다.
 ```python3
 from typing import List
 
-# class Solution:
-#     def longestCommonPrefix(self, strs: List[str]) -> str:
-#         res = ""
-#         for a in zip(*strs):
-#             if len(set(a)) == 1: 
-#                 res += a[0]
-#             else: 
-#                 return res
-#         return res
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        res = ""
+        for a in zip(*strs):
+            if len(set(a)) == 1: 
+                res += a[0]
+            else: 
+                return res
+        return res
+```
 
+##sorted함수를 이용
+sorted를 하여 사전순으로 나열하면 first와 last가 가장 차이가 많이 나기 때문에 둘만을 비교하는 것으로 간략화 할 수 있다.
+```
 class Solution:
     def longestCommonPrefix(self, v: List[str]) -> str:
         ans=""
@@ -24,8 +31,9 @@ class Solution:
             
             ans+=first[i]
             
-        return ans   
-
+        return ans
+```
+```
 # class Solution:
 #     def longestCommonPrefix(self, strs: List[str]) -> str:
 #         cnt = 0
@@ -43,6 +51,7 @@ class Solution:
                 
 #                 else:
 #                     if ptr == str[-1]:
+```
 #                         cnt += 1
                 
 #         return cnt​
