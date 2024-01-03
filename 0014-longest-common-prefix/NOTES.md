@@ -33,6 +33,8 @@ class Solution:
             
         return ans
 ```
+***
+# solution 보기 전 만든 코드
 ```
 # class Solution:
 #     def longestCommonPrefix(self, strs: List[str]) -> str:
