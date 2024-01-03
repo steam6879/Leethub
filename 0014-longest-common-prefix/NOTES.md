@@ -33,28 +33,29 @@ class Solution:
             
         return ans
 ```
+
+
 ***
 ### solution 보기 전 만든 코드
 ```
-# class Solution:
-#     def longestCommonPrefix(self, strs: List[str]) -> str:
-#         cnt = 0
-#         min_strs = min(strs)
-#         n = len(min(strs))
-#         m = {}
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        cnt = 0
+        min_strs = min(strs)
+        n = len(min(strs))
+        m = {}
 
-#         for i in range(n):  #hash map
-#             m[min_strs[i]] = i
+        for i in range(n):  #hash map
+            m[min_strs[i]] = i
         
-#         for ptr in strs:
-#             for i in range(n):
-#                 if ptr[i] not in m:
-#                     return cnt
+        for ptr in strs:
+            for i in range(n):
+                if ptr[i] not in m:
+                    return cnt
                 
-#                 else:
-#                     if ptr == str[-1]:
-```
-#                         cnt += 1
+                else:
+                    if ptr == str[-1]:
+                        cnt += 1
                 
-#         return cnt​
+        return cnt
 ```
