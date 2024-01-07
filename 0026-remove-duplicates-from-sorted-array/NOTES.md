@@ -37,3 +37,15 @@ i와 j를 사용하여 두가지 변수를 통해 two pointer방식을 구현
 * Time complexity : O(N)
 
 * 해결 할 수 있는 방법은 많겠지만, **in place** 방식으로 구현해야 한다는 것에 주목하자.
+
+***
+
+```python3
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        nums[:] = sorted(set(nums))
+        return len(nums)
+```
+```nums =``` doesn't replace elements in the original list.
+
+```nums[:] =``` replaces element in place
