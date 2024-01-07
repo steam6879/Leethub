@@ -40,6 +40,8 @@ i와 j를 사용하여 두가지 변수를 통해 two pointer방식을 구현
 
 ***
 
+# sort in place using [:]
+
 ```python3
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
