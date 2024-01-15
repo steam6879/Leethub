@@ -31,4 +31,4 @@ class Solution:
         else:
             return 2**pl - 2
 ```
-this code is not working
+this code don't take correct answer
