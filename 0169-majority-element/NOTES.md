@@ -72,7 +72,21 @@ class Solution:
             if num == candidate:
                 count += 1
             else:
+
                 count -= 1
         
         return candidate
 ```
+
+# Boyer-Moore 과반수 투표 알고리즘
+Boyer-Moore 과반수 투표 알고리즘(majority vote algorithm)[1]은 배열에 포함된 원소들 중 절반 이상 포함된 원소를 linear time 과 constant space 로 찾을 수 있는 알고리즘이다.
+
+참고로 Boyer–Moore 문자열 검색 알고리즘(string-search algorithm)과는 다르므로 헷갈리지 말자.
+
+보이어 무어 과반수 투표 알고리즘은 스트리밍 알고리즘(streaming algorithm)의 대표적인 예다.
+
+만약 배열 내 과반수(절반이 넘는 수)에 해당하는 원소가 존재한다는 보장이 된다면, 결과값은 항상 과반수 원소가 된다.
+
+주의할 점은, 만약 배열 내에 과반수 만큼 등장하는 원소가 없다면 결과값으로 임의의 의미없는 값이 나오게 된다(딱 절반 만큼 등장하는 원소가 있더라도 마찬가지다)
+
+즉, 과반수 만큼 등장하는 원소가 있다는 보장이 없다면, 결과값이 항상 과반수에 해당하는 원소라는 보장도 없다는 것이다.
