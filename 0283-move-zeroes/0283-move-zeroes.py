@@ -8,3 +8,5 @@ class Solution:
             if (nums[j] != 0):
                 nums[i], nums[j] = nums[j], nums[i]
                 i += 1
+        
+        return nums
