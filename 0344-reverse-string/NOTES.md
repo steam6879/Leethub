@@ -6,7 +6,7 @@
 ```
 
 # using reverse()
-```pyhton3
+```python3
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         s.reverse()
