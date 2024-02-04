@@ -5,7 +5,7 @@ We use a global variable ans, to keep track of our balanced status. It is initia
 
 We are given that —
 
-a binary tree in which the left and right subtrees of every node differ in height by no more than 1.
+>_a binary tree in which the left and right subtrees of every node differ in height by no more than 1._
 
 Therefore, we traverse all nodes in the tree and find the heights of every node’s left and right subtrees.
 
