@@ -53,3 +53,4 @@ class Solution:
 
         return identical(p.left, q.left) and identical(p.right, q.right)
 ```
+> https://palashsharma891.medium.com/572-subtree-of-another-tree-leetcode-python-368d61116758
