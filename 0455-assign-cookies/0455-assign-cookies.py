@@ -1,15 +1,17 @@
+from typing import Optional, List
+
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
+        gp, sp = 0, 0
         g.sort()
         s.sort()
-        i, j = 0, 0
-        ans = 0
 
-        while i < len(g) and j < len(s):
-            if g[i] <= s[j]:
-                ans += 1
-                i += 1
-
-            j += 1
+        while gp < len(g) and sp <len(s):
+            if g[gp] <= s[sp]:
+                gp += 1
+                sp += 1
             
-        return ans
+            else:
+                sp += 1
+
+        return gp
