@@ -6,4 +6,6 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 https://neetcode.io/practice
 
 [https://www.techinterviewhandbook.org/grind75](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&difficulty=Easy&difficulty=Medium&mode=preferences&hours=8&weeks=10)
-![Uploading image.png…]()
+
+
+![image](https://github.com/steam6879/Leethub/assets/24868796/b186ddf5-8939-495d-a8e3-2b1d231ad700)
