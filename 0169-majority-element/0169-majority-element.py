@@ -1,16 +1,15 @@
-from typing import List
-
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        m = {}
-        n = len(nums)
-        for i in range(n):
-            if nums[i] in m:
-                m[nums[i]] += 1
-            else:
-                m[nums[i]] = 1
+        count, candidate = 0, 0
 
-        for key in m:
-            if m[key] > n // 2:
-                return key
-            pass
+        for num in nums:
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count += 1
+
+            else:
+                count -= 1
+
+        return candidate
