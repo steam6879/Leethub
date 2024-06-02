@@ -9,3 +9,13 @@ https://neetcode.io/practice
 
 
 ![image](https://github.com/steam6879/Leethub/assets/24868796/b186ddf5-8939-495d-a8e3-2b1d231ad700)
+
+
+# Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/steam6879/Leethub/tree/master/0024-swap-nodes-in-pairs) |
+# Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/steam6879/Leethub/tree/master/0024-swap-nodes-in-pairs) |
