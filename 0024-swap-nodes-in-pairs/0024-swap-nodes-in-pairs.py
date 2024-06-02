@@ -17,4 +17,3 @@ class Solution:
             prev = temp.next
 
         return dummy.next
-    
