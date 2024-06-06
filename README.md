@@ -19,3 +19,12 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/steam6879/Leethub/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/steam6879/Leethub/tree/master/0242-valid-anagram) |
+# Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/steam6879/Leethub/tree/master/0242-valid-anagram) |
+# Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/steam6879/Leethub/tree/master/0242-valid-anagram) |
