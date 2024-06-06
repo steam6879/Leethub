@@ -9,3 +9,9 @@ https://neetcode.io/practice
 
 
 ![image](https://github.com/steam6879/Leethub/assets/24868796/b186ddf5-8939-495d-a8e3-2b1d231ad700)
+
+
+# Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/steam6879/Leethub/tree/master/0328-odd-even-linked-list) |
