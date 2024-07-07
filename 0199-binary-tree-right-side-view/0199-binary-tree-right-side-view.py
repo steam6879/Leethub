@@ -18,7 +18,6 @@ class Solution:
         que = deque([root])
 
         while que:
-            curr = 0
             for _ in range(len(que)):
                 node = que.popleft()
                 curr = node.val
