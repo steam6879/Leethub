@@ -28,7 +28,6 @@ class Solution:
                 if node.right:
                     que.append(node.right)
 
-            if level:
-                ans.append(level[-1])
+            ans.append(level[-1])
 
         return ans
