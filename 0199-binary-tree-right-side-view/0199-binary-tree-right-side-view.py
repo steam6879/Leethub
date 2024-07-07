@@ -18,16 +18,16 @@ class Solution:
         que = deque([root])
 
         while que:
-            level = []
+            curr = 0
             for _ in range(len(que)):
                 node = que.popleft()
-                level.append(node.val)
+                curr = node.val
 
                 if node.left:
                     que.append(node.left)
                 if node.right:
                     que.append(node.right)
 
-            ans.append(level[-1])
+            ans.append(curr)
 
         return ans
