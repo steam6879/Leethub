@@ -16,6 +16,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/steam6879/Leethub/tree/master/0113-path-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
