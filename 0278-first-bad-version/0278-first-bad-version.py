@@ -3,28 +3,14 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        if n == 1:
-            return 1
-
-        pl = 1
-        pr = n
+        pl, pr = 1, n
 
         while pl <= pr:
             pc = (pl + pr) // 2
 
             if isBadVersion(pc):
-                if pc == 1:
-                    return 1
-
-                if not isBadVersion(pc - 1):
-                    return pc
-                else:
-                    pr = pc - 1
-
+                pr = pc - 1
             else:
-                if isBadVersion(pc + 1):
-                    return pc + 1
-                else:
-                    pl = pc + 1
-            
-        return -1
+                pl = pc + 1
+
+        return pl
