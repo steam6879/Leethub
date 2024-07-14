@@ -53,5 +53,10 @@ https://neetcode.io/practice
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
