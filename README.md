@@ -15,6 +15,7 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
 ## Hash Table
@@ -53,6 +54,7 @@ https://neetcode.io/practice
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
 ## Interactive
