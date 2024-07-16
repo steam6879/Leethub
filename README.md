@@ -22,6 +22,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,8 +58,17 @@ https://neetcode.io/practice
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
