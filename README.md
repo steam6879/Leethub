@@ -17,6 +17,7 @@ https://neetcode.io/practice
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/steam6879/Leethub/tree/master/0792-binary-search) |
 ## Hash Table
@@ -49,6 +50,7 @@ https://neetcode.io/practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Backtracking
@@ -77,5 +79,10 @@ https://neetcode.io/practice
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
