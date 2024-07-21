@@ -13,16 +13,18 @@ class Solution:
         if not node:
             return None
 
-        clone = Node(node.val)
-        clones = {node: clone}
-        que = deque([node])
+        clones = {}
 
-        while que:
-            node = que.popleft()
+        def dfs(node):
+            if node in clones:
+                return clones[node]
+
+            clone = Node(node.val)
+            clones[node] = clone
+
             for nei in node.neighbors:
-                if nei not in clones:
-                    clones[nei] = Node(nei.val)
-                    que.append(nei)
-                clones[node].neighbors.append(clones[nei])
+                clone.neighbors.append(dfs(nei))
 
-        return clone
+            return clone
+
+        return dfs(node)
