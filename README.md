@@ -16,6 +16,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+| [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+| [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -40,4 +42,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
