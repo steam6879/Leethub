@@ -9,3 +9,35 @@ https://neetcode.io/practice
 
 
 ![image](https://github.com/steam6879/Leethub/assets/24868796/b186ddf5-8939-495d-a8e3-2b1d231ad700)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Hash Table
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+<!---LeetCode Topics End-->
