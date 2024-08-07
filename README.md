@@ -15,6 +15,7 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -24,6 +25,7 @@ https://neetcode.io/practice
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
@@ -45,5 +47,10 @@ https://neetcode.io/practice
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
