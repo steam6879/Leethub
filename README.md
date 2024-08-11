@@ -30,10 +30,12 @@ https://neetcode.io/practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -53,4 +55,12 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
