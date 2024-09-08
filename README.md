@@ -32,6 +32,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/steam6879/Leethub/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/steam6879/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -71,4 +72,16 @@ https://neetcode.io/practice
 | ------- |
 | [0210-course-schedule-ii](https://github.com/steam6879/Leethub/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
