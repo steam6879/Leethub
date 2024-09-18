@@ -22,11 +22,13 @@ https://neetcode.io/practice
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
@@ -92,4 +94,8 @@ https://neetcode.io/practice
 | [0098-validate-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/steam6879/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
