@@ -98,4 +98,16 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
