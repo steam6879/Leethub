@@ -1,3 +1,6 @@
+from collections import defaultdict
+
+
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         m = defaultdict(lambda: 0)
@@ -10,9 +13,9 @@ class Solution:
                     m[char] -= 1
                 else:
                     return False
-            
+
             else:
                 return False
-            
+
         else:
             return True
