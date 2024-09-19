@@ -18,6 +18,7 @@ https://neetcode.io/practice
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/steam6879/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/steam6879/Leethub/tree/master/1036-rotting-oranges) |
@@ -111,6 +112,7 @@ https://neetcode.io/practice
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
