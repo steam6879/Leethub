@@ -105,11 +105,13 @@ https://neetcode.io/practice
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
@@ -121,4 +123,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
