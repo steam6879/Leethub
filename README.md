@@ -33,6 +33,7 @@ https://neetcode.io/practice
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -110,6 +111,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -134,4 +136,12 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
