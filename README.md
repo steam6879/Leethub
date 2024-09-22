@@ -17,6 +17,7 @@ https://neetcode.io/practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
+| [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
@@ -114,6 +115,7 @@ https://neetcode.io/practice
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/steam6879/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
