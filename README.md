@@ -19,6 +19,7 @@ https://neetcode.io/practice
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/steam6879/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
@@ -94,6 +95,7 @@ https://neetcode.io/practice
 | [0098-validate-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/steam6879/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +119,7 @@ https://neetcode.io/practice
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/steam6879/Leethub/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/steam6879/Leethub/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
