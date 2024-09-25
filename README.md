@@ -9,3 +9,15 @@ https://neetcode.io/practice
 
 
 ![image](https://github.com/steam6879/Leethub/assets/24868796/b186ddf5-8939-495d-a8e3-2b1d231ad700)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
+<!---LeetCode Topics End-->
