@@ -20,9 +20,22 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/steam6879/Leethub/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/steam6879/Leethub/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
