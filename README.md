@@ -26,10 +26,12 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/steam6879/Leethub/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,8 +48,25 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
