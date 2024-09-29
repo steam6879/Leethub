@@ -38,4 +38,16 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
