@@ -63,6 +63,7 @@ https://neetcode.io/practice
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/steam6879/Leethub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
@@ -89,6 +90,7 @@ https://neetcode.io/practice
 | ------- |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/steam6879/Leethub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -106,8 +108,13 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/steam6879/Leethub/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/steam6879/Leethub/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
