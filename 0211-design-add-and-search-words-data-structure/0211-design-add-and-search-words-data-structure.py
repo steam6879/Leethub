@@ -30,8 +30,10 @@ class WordDictionary:
                 return dfs(node.children[char], i + 1)
 
             elif char == ".":
-                for char in node.children:
-                    if dfs(node.children[char], i + 1):
+                for c in node.children:
+                    if dfs(node.children[c], i + 1):
                         return True
+
+            return False
 
         return dfs(self.head, 0)
