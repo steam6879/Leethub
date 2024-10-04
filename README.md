@@ -31,15 +31,18 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,11 +65,13 @@ https://neetcode.io/practice
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -85,4 +90,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
