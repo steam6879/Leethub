@@ -15,6 +15,7 @@ https://neetcode.io/practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
@@ -47,6 +49,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Math
@@ -58,6 +61,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Geometry
@@ -83,6 +87,7 @@ https://neetcode.io/practice
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -101,4 +106,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
