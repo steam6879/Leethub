@@ -23,14 +23,15 @@ class WordDictionary:
     def search(self, word: str) -> bool:
         def dfs(node, i):
             if i == len(word):
-                return node.data is not None
+                return node.data
 
             char = word[i]
             if char in node.children:
                 return dfs(node.children[char], i + 1)
-            if char == ".":
-                return any(dfs(node.children[k], i + 1) for k in node.children)
 
-            return False
+            elif char == ".":
+                for char in node.children:
+                    if dfs(node.children[char], i + 1):
+                        return True
 
         return dfs(self.head, 0)
