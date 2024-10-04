@@ -44,6 +44,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
 | ------- |
@@ -60,13 +62,27 @@ https://neetcode.io/practice
 ## Sorting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
