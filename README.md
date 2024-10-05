@@ -20,6 +20,7 @@ https://neetcode.io/practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/steam6879/Leethub/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
@@ -32,6 +33,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
@@ -122,4 +124,5 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
