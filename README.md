@@ -31,6 +31,7 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
@@ -117,4 +118,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/steam6879/Leethub/tree/master/0211-design-add-and-search-words-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
