@@ -32,6 +32,7 @@ https://neetcode.io/practice
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/steam6879/Leethub/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
@@ -41,6 +42,7 @@ https://neetcode.io/practice
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/steam6879/Leethub/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/steam6879/Leethub/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
