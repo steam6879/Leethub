@@ -18,7 +18,8 @@ class Solution:
 
         def dfs(index, path):
             if index == len(digits):
-                return ans.append(path)
+                ans.append(path)
+                return None
 
             for char in keyboard[digits[index]]:
                 dfs(index + 1, path + char)
