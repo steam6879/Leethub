@@ -33,6 +33,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/steam6879/Leethub/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/steam6879/Leethub/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/steam6879/Leethub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
@@ -56,6 +57,7 @@ https://neetcode.io/practice
 | ------- |
 | [0013-roman-to-integer](https://github.com/steam6879/Leethub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/steam6879/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/steam6879/Leethub/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/steam6879/Leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/steam6879/Leethub/tree/master/0692-top-k-frequent-words) |
@@ -134,6 +136,7 @@ https://neetcode.io/practice
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/steam6879/Leethub/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/steam6879/Leethub/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
