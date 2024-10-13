@@ -34,6 +34,7 @@ https://neetcode.io/practice
 | ------- |
 | [0031-next-permutation](https://github.com/steam6879/Leethub/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/steam6879/Leethub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/steam6879/Leethub/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
@@ -130,4 +131,12 @@ https://neetcode.io/practice
 | [0017-letter-combinations-of-a-phone-number](https://github.com/steam6879/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/steam6879/Leethub/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/steam6879/Leethub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
