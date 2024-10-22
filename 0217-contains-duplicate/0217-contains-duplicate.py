@@ -1,13 +1,10 @@
-from typing import List
-from collections import Counter
-
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        counters = Counter(nums)
-
-        for value in counters.values():
-            if value >= 2:
+        m = set()
+        for num in nums:
+            if num in m:
                 return True
+            else:
+                m.add(num)
             
-        else:
-            return False
+        return False
