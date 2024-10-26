@@ -17,6 +17,7 @@ https://neetcode.io/practice
 | ------- |
 | [0001-two-sum](https://github.com/steam6879/Leethub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/steam6879/Leethub/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
@@ -54,4 +55,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
