@@ -16,6 +16,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/steam6879/Leethub/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/steam6879/Leethub/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
@@ -37,10 +38,15 @@ https://neetcode.io/practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
