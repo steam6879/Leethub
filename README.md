@@ -16,6 +16,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/steam6879/Leethub/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/steam6879/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
@@ -54,6 +55,7 @@ https://neetcode.io/practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/steam6879/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
 ## Prefix Sum
@@ -64,4 +66,8 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/steam6879/Leethub/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
