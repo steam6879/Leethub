@@ -29,6 +29,7 @@ https://neetcode.io/practice
 | [0189-rotate-array](https://github.com/steam6879/Leethub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ https://neetcode.io/practice
 | [0128-longest-consecutive-sequence](https://github.com/steam6879/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 ## Backtracking
 |  |
 | ------- |
