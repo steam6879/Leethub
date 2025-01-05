@@ -5,24 +5,20 @@ from collections import Counter
 class Solution:
 
     def findAnagrams(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: List[int]
-        """
         ans = []
-        pCounter = Counter(p)
-        sCounter = Counter(s[:len(p)-1])
+        p_counter = Counter(p)
+        s_counter = Counter(s[ : len(p) - 1])
 
-        for i in range(len(p)-1,len(s)):
-            sCounter[s[i]] += 1   # include a new char in the window
+        for i in range(len(p) - 1, len(s)):
+            start_index = i - len(p) + 1
+            s_counter[s[i]] += 1
 
-            if sCounter == pCounter:    # This step is O(1), since there are at most 26 English letters 
-                ans.append(i-len(p)+1)   # append the starting index
+            if s_counter == p_counter:
+                ans.append(start_index)  # start index.
 
-            sCounter[s[i-len(p)+1]] -= 1   # decrease the count of oldest char in the window
+            s_counter[s[start_index]] -= 1
 
-            if sCounter[s[i-len(p)+1]] == 0:
-                del sCounter[s[i-len(p)+1]]   # remove the count if it is 0
+            if s_counter[s[start_index]] == 0:
+                del s_counter[s[start_index]]
 
         return ans
