@@ -1,16 +1,13 @@
 from typing import List
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groupedAnagrams = defaultdict(list)
+        groups = defaultdict(list)
 
-        for s in strs:
-            # Sort the characters of the string to create a key
-            sortedKey = tuple(sorted(s))
-            # Add the string to the corresponding list in the dictionary
-            groupedAnagrams[sortedKey].append(s)
+        for str in strs:
+            sorted_key = tuple(sorted(str))
+            groups[sorted_key].append(str)
 
-        # Return the values of the dictionary as a list of lists
-        return list(groupedAnagrams.values())
+        return list(groups.values())
