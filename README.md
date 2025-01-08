@@ -103,4 +103,20 @@ https://neetcode.io/practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
