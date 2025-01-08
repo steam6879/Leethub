@@ -1,18 +1,18 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def dfs(root):
-            if not root:
+        if not root:
+            return True
+
+        def depth(node):
+            if not node:
                 return 0
+            
+            return 1 + max(depth(node.left), depth(node.right))
 
-            left = 1 + dfs(root.left)
-            right = 1 + dfs(root.right)
+        left_depth = depth(root.left)
+        right_depth = depth(root.right)
 
-            if abs(left - right) > 1:
-                self.ans = False
+        if abs(left_depth - right_depth) > 1:
+            return False
 
-            return max(left, right)
-
-        self.ans = True
-        dfs(root)
-
-        return self.ans
+        return self.isBalanced(root.left) and self.isBalanced(root.right)
