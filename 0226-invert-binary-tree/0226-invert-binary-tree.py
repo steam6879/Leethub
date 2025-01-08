@@ -1,5 +1,6 @@
+# Definition for a binary tree node.
 from typing import Optional
-
+from collections import deque
 
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -8,14 +9,16 @@ class TreeNode:
         self.right = right
 
 
-class Solution:
+class Solution:     #BFS
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if not root:
-            return None
+        que = deque([root])
 
-        self.invertTree(root.left)
-        self.invertTree(root.right)
+        while que:
+            node = que.popleft()
 
-        root.left, root.right = root.right, root.left
+            if node:
+                node.left, node.right = node.right, node.left
+                que.append(node.left)
+                que.append(node.right)
 
         return root
