@@ -10,18 +10,23 @@ class TreeNode:
         self.right = right
 
 
-class Solution:     # DFS
+class Solution:     # BFS
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        que = deque([root])
+        depth = 0
+
         if not root:
             return 0
 
-        def dfs(node):
-            if not node:
-                return 0
+        while que:
+            depth += 1
 
-            left = dfs(node.left)
-            right = dfs(node.right)
+            for _ in range(len(que)):
+                curr = que.popleft()
+                if curr.left:
+                    que.append(curr.left)
 
-            return 1 + max(left, right)
+                if curr.right:
+                    que.append(curr.right)
 
-        return dfs(root)
+        return depth
