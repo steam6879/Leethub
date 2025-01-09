@@ -12,21 +12,20 @@ class TreeNode:
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
-            return None
-
+            return []
+        
         ans = []
         que = deque([root])
 
         while que:
-            for _ in range(len(que)):
+            for i in range(len(que)):
                 node = que.popleft()
-                curr = node.val
 
                 if node.left:
                     que.append(node.left)
                 if node.right:
                     que.append(node.right)
 
-            ans.append(curr)
+            ans.append(node.val)
 
         return ans
