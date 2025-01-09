@@ -1,29 +1,18 @@
-# Definition for a binary tree node.
-from typing import Optional
-from collections import deque
-
-
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
-
-class Solution:     # DFS
+class Solution:       # BFS gpt 01 ver`
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        def dfs(p, q):
-            if not p and not q:
-                return True
 
-            elif not p or not q:
+        que = deque([(p, q)])
+
+        while que:
+            node1, node2 = que.popleft()
+
+            # If both nodes are present and match
+            if node1 and node2 and node1.val == node2.val:
+                que.append((node1.left, node2.left))
+                que.append((node1.right, node2.right))
+            # If one node is missing or values mismatch
+            elif node1 or node2:
                 return False
 
-            elif p.val != q.val:
-                return False
-            
-            else:
-                return dfs(p.left, q.left) \
-                    and dfs(p.right, q.right)
-
-        return dfs(p, q)
+        # All compared nodes matched
+        return True
