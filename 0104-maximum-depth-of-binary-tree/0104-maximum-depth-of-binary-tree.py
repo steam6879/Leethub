@@ -2,27 +2,26 @@
 from typing import Optional
 from collections import deque
 
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
-class Solution:
-    def maxDepth(self, root: Optional[TreeNode]) -> int:
-        queue = deque([root])
-        depth = 0
 
-        if root is None:
+
+class Solution:     # DFS
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        if not root:
             return 0
 
-        while queue:
-            depth += 1
+        def dfs(node):
+            if not node:
+                return 0
 
-            for _ in range(len(queue)):
-                cur = queue.popleft()
-                if cur.left:
-                    queue.append(cur.left)
-                if cur.right:
-                    queue.append(cur.right)
+            left = dfs(node.left)
+            right = dfs(node.right)
 
-        return depth
+            return 1 + max(left, right)
+
+        return dfs(root)
