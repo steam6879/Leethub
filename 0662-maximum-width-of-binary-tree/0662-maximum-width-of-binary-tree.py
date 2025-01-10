@@ -3,7 +3,7 @@ from collections import deque
 
 
 class TreeNode:
-    def __init__(self, val: int = 0, left: Optional[TreeNode] = None, right: Optional[TreeNode] = None):
+    def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
@@ -12,23 +12,23 @@ class TreeNode:
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         if not root:
-            return 0  # Return 0 for an empty tree or None
+            return 0
 
-        que = deque([(root, 0)])  # Initialize deque with (node, index)
-        maxWidth = 0  # Initialize maximum width to 0
+        que = deque([(root, 0)])
+        max_width = 0
 
         while que:
-            _, start = que[0]  # Get the index of the first element in current level
+            start = que[0][1]
 
             for _ in range(len(que)):
-                node, idx = que.popleft()  # Dequeue the node and its index
+                node, idx = que.popleft()
 
                 if node.left:
-                    que.append((node.left, 2 * idx))  # Add left child with doubled index
-
+                    que.append((node.left, 2 * idx))
+                
                 if node.right:
-                    que.append((node.right, 2 * idx + 1))  # Add right child with doubled index + 1
+                    que.append((node.right, 2 * idx + 1))
 
-                maxWidth = max(maxWidth, idx - start + 1)  # Calculate current level width
+                max_width = max(max_width, idx - start + 1)
 
-        return maxWidth
+        return max_width
