@@ -10,23 +10,22 @@ class TreeNode:
 
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        if not root:
-            return []
-
         self.ans = []
 
-        def dfs(node, currentSum, path):
+        def dfs(node, curr_sum, path):
             if not node:
-                return
-
-            currentSum += node.val
+                return None
+            
             path.append(node.val)
+            curr_sum += node.val
 
-            if not node.left and not node.right and currentSum == targetSum:
+            if not node.left and not node.right \
+                and curr_sum == targetSum:
                 self.ans.append(path[:])
 
-            dfs(node.left, currentSum, path)
-            dfs(node.right, currentSum, path)
+            dfs(node.left, curr_sum, path)
+            dfs(node.right, curr_sum, path)
+
             path.pop()
 
         dfs(root, 0, [])
