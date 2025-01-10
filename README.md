@@ -120,6 +120,7 @@ https://neetcode.io/practice
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ https://neetcode.io/practice
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ https://neetcode.io/practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/steam6879/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,4 +155,5 @@ https://neetcode.io/practice
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
