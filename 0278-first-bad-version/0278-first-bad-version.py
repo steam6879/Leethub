@@ -1,7 +1,4 @@
 class Solution:
-    def isBadVersion(version):
-        pass
-
     def firstBadVersion(self, n: int) -> int:
         left, right = 1, n
 
