@@ -156,4 +156,12 @@ https://neetcode.io/practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
