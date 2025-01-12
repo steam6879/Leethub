@@ -18,6 +18,7 @@ https://neetcode.io/practice
 | [0001-two-sum](https://github.com/steam6879/Leethub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/steam6879/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
@@ -159,6 +160,7 @@ https://neetcode.io/practice
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
