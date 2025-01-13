@@ -33,6 +33,7 @@ https://neetcode.io/practice
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ https://neetcode.io/practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/steam6879/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -179,5 +182,6 @@ https://neetcode.io/practice
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
