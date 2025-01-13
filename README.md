@@ -45,6 +45,7 @@ https://neetcode.io/practice
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ https://neetcode.io/practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,8 +164,13 @@ https://neetcode.io/practice
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
