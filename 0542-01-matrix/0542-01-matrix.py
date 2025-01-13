@@ -3,11 +3,11 @@ from collections import deque
 
 class Solution:
     def updateMatrix(self, mat: list[list[int]]) -> list[list[int]]:
-        row, col = len(mat), len(mat[0])
+        rows, cols = len(mat), len(mat[0])
         que = deque()
 
-        for i in range(row):
-            for j in range(col):
+        for i in range(rows):
+            for j in range(cols):
                 if mat[i][j] == 0:
                     que.append((i, j))
 
@@ -16,22 +16,18 @@ class Solution:
         count = 0
 
         while que:
-            # take out the 1st element coordinate in the queue
             for _ in range(len(que)):
-                x, y = que.popleft()
-                # find the neighbor
-                for dx, dy in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
-                    xx, yy = x + dx, y + dy
-                    if 0 <= xx < row and 0 <= yy < col \
-                        and (xx, yy) not in visited:
-                        que.append((xx, yy))
-                        visited.add((xx, yy))
-                # update the cooresponding position value for (x, y)
-                # here we split into 2 case
-                if mat[x][y] == 0:
-                    mat[x][y] = 0
-                else:
-                    mat[x][y] = mat[x][y] + count - 1
+                i, j = que.popleft()
+
+                for x, y in ((i-1, j), (i+1, j), (i, j-1), (i, j+1)):
+                    if (0 <= x < rows and
+                        0 <= y < cols and
+                        (x, y) not in visited):
+                        que.append((x, y))
+                        visited.add((x, y))
+
+                if mat[i][j] != 0:
+                    mat[i][j] += count - 1
 
             count += 1
 
