@@ -4,11 +4,16 @@ class Solution:     # DFS
             image[i][j] = color
 
             for x, y in ((i - 1, j), (i + 1, j), (i, j - 1), ((i, j + 1))):
-                if 0 <= x < m and 0 <= y < n and image[x][y] == old:
+                if (0 <= x < rows and 
+                    0 <= y < cols and 
+                    image[x][y] == old_color):
                     dfs(x, y)
 
-        m, n, old = len(image), len(image[0]), image[sr][sc]
-        if old != color:
+        # Get dimensions and original color
+        rows, cols = len(image), len(image[0])
+        old_color = image[sr][sc]
+
+        if old_color != color:
             dfs(sr, sc)
 
         return image
