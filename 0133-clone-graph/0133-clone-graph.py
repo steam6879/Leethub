@@ -12,19 +12,18 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
+        
+        clone = Node(node.val)
+        clones = {node: clone}
+        que = deque([node])
 
-        clones = {}
-
-        def dfs(node):
-            if node in clones:
-                return clones[node]
-
-            clone = Node(node.val)
-            clones[node] = clone
-
+        while que:
+            node = que.popleft()
             for nei in node.neighbors:
-                clone.neighbors.append(dfs(nei))
+                if nei not in clones:
+                    clones[nei] = Node(nei.val)
+                    que.append(nei)
 
-            return clone
+                clones[node].neighbors.append(clones[nei])
 
-        return dfs(node)
+        return clone
