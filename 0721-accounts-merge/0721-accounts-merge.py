@@ -1,35 +1,53 @@
 from collections import defaultdict
+from typing import List
 
 
 class Solution:
-    def accountsMerge(self, accounts: list[list[str]]) -> list[list[str]]:
+    def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
+        # Create a dictionary mapping emails to account indices
+        email_to_accounts = defaultdict(list)
         visited = [False] * len(accounts)
-        m = defaultdict(list)
-        ans = []
+        merged_accounts = []
 
-        for i, account in enumerate(accounts):
-            for j in range(1, len(account)):
-                email = account[j]
-                m[email].append(i)
+        # Step 1: Build mapping of email to account indices
+        for account_idx, account in enumerate(accounts):
+            # Skip name (index 0) and process only emails
+            for email in account[1:]:
+                email_to_accounts[email].append(account_idx)
 
-        def dfs(i, emails):
-            if visited[i]:
-                return None
+        def find_connected_emails(account_idx: int, connected_emails: set) -> None:
+            """
+            DFS function to find all connected emails for an account
+            Args:
+                account_idx: Index of the current account
+                connected_emails: Set to store all connected emails
+            """
+            if visited[account_idx]:
+                return
 
-            visited[i] = True
-            for j in range(1, len(accounts[i])):
-                email = accounts[i][j]
-                emails.add(email)
+            visited[account_idx] = True
+            current_account = accounts[account_idx]
+            
+            # Process all emails in current account
+            for email in current_account[1:]:
+                connected_emails.add(email)
+                # Check other accounts containing this email
+                for linked_account_idx in email_to_accounts[email]:
+                    if not visited[linked_account_idx]:
+                        find_connected_emails(linked_account_idx, connected_emails)
 
-                for neighbor in m[email]:
-                    dfs(neighbor, emails)
-
-        for i, account in enumerate(accounts):
-            if visited[i]:
+        # Step 2: Merge accounts using DFS
+        for account_idx, account in enumerate(accounts):
+            if visited[account_idx]:
                 continue
 
-            name, emails = account[0], set()
-            dfs(i, emails)
-            ans.append([name] + sorted(emails))
+            account_name = account[0]
+            connected_emails = set()
+            
+            # Find all connected emails using DFS
+            find_connected_emails(account_idx, connected_emails)
+            
+            # Add merged account with sorted emails
+            merged_accounts.append([account_name] + sorted(connected_emails))
 
-        return ans
+        return merged_accounts
