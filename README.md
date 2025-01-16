@@ -24,6 +24,7 @@ https://neetcode.io/practice
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/steam6879/Leethub/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/steam6879/Leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/steam6879/Leethub/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ https://neetcode.io/practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
@@ -138,6 +141,7 @@ https://neetcode.io/practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/steam6879/Leethub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/steam6879/Leethub/tree/master/0110-balanced-binary-tree) |
@@ -198,6 +202,7 @@ https://neetcode.io/practice
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/steam6879/Leethub/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
