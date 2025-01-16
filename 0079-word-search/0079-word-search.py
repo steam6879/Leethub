@@ -35,7 +35,7 @@ class Solution:
         # Try DFS from each starting position
         for i, j in starting:
             visited.clear()  # Clear visited set for each new starting point
-            visited.add((i, j))  # Add starting position to visited
+
             if backtrack(i, j, 1):
                 return True
         
