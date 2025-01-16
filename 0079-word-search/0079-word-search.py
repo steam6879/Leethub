@@ -1,28 +1,42 @@
 class Solution:
     def exist(self, board: list[list[str]], word: str) -> bool:
         m, n = len(board), len(board[0])
+        # Store starting positions where first letter matches
+        starting = set()
+        # Track visited cells during DFS
+        visited = set()
 
-        def backtrack(i, j, k):
-            if k == len(word):
+        def backtrack(i, j, ptr):
+            # Base case: found complete word
+            if ptr == len(word):
                 return True
             
-            # Check if out of bounds or cell does not match the word
-            if i < 0 or i >= m or j < 0 or j >= n or board[i][j] != word[k]:
-                return False
+            # Mark current cell as visited
+            visited.add((i, j))
             
-            # Save the current cell and mark it as visited
-            temp = board[i][j]
-            board[i][j] = '#'
+            # Check all 4 adjacent cells
+            for x, y in ((i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)):
+                if (0 <= x < m and 0 <= y < n and 
+                    board[x][y] == word[ptr] and 
+                    (x, y) not in visited):
+                    if backtrack(x, y, ptr + 1):
+                        return True
             
-            if backtrack(i+1, j, k+1) or backtrack(i-1, j, k+1) or backtrack(i, j+1, k+1) or backtrack(i, j-1, k+1):
-                return True
-
-            board[i][j] = temp
+            # Backtrack by removing current cell from visited
+            visited.remove((i, j))
             return False
 
+        # Find all possible starting positions
         for i in range(m):
             for j in range(n):
-                if backtrack(i, j, 0):
-                    return True
+                if board[i][j] == word[0]:
+                    starting.add((i, j))
 
+        # Try DFS from each starting position
+        for i, j in starting:
+            visited.clear()  # Clear visited set for each new starting point
+            visited.add((i, j))  # Add starting position to visited
+            if backtrack(i, j, 1):
+                return True
+        
         return False
