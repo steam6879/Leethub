@@ -35,6 +35,7 @@ https://neetcode.io/practice
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ https://neetcode.io/practice
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ https://neetcode.io/practice
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +103,7 @@ https://neetcode.io/practice
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/steam6879/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/steam6879/Leethub/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +114,7 @@ https://neetcode.io/practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -145,6 +150,7 @@ https://neetcode.io/practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -159,6 +165,7 @@ https://neetcode.io/practice
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
