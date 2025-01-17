@@ -18,7 +18,7 @@ class Solution:
 
         # 첫 번째 리프 노드 추가
         leaves = []
-        for i in range(n + 1):
+        for i in range(n):
             if len(graph[i]) == 1:
                 leaves.append(i)
 
