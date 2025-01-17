@@ -152,6 +152,7 @@ https://neetcode.io/practice
 | [0207-course-schedule](https://github.com/steam6879/Leethub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/steam6879/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -167,6 +168,7 @@ https://neetcode.io/practice
 | [0200-number-of-islands](https://github.com/steam6879/Leethub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/steam6879/Leethub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/steam6879/Leethub/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/steam6879/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -211,8 +213,10 @@ https://neetcode.io/practice
 | ------- |
 | [0133-clone-graph](https://github.com/steam6879/Leethub/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/steam6879/Leethub/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/steam6879/Leethub/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/steam6879/Leethub/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
