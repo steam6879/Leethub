@@ -17,16 +17,16 @@ class Solution:
 
         ans = []
         while que:
-            node = que.popleft()
-            ans.append(node)
+            curr = que.popleft()
+            ans.append(curr)
 
-            for neighbor in graph[node]:
-                indegree[neighbor] -= 1
+            for next_course in graph[curr]:
+                indegree[next_course] -= 1
 
-                if indegree[neighbor] == 0:
-                    que.append(neighbor)
+                if indegree[next_course] == 0:
+                    que.append(next_course)
 
         if len(ans) != numCourses:
             return []
-
+        
         return ans
