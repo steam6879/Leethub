@@ -49,6 +49,7 @@ https://neetcode.io/practice
 | [0133-clone-graph](https://github.com/steam6879/Leethub/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -77,6 +78,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ https://neetcode.io/practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
+| [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
