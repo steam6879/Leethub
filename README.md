@@ -57,6 +57,7 @@ https://neetcode.io/practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 ## Divide and Conquer
@@ -111,6 +112,7 @@ https://neetcode.io/practice
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/steam6879/Leethub/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -241,4 +243,8 @@ https://neetcode.io/practice
 | [0098-validate-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/steam6879/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/steam6879/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
