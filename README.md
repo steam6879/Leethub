@@ -21,6 +21,7 @@ https://neetcode.io/practice
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/steam6879/Leethub/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
@@ -57,12 +58,14 @@ https://neetcode.io/practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 ## Sorting
