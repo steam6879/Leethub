@@ -37,6 +37,7 @@ https://neetcode.io/practice
 | [0200-number-of-islands](https://github.com/steam6879/Leethub/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
@@ -65,6 +66,7 @@ https://neetcode.io/practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
@@ -215,6 +217,7 @@ https://neetcode.io/practice
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Interactive
 |  |
