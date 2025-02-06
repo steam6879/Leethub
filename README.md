@@ -67,6 +67,7 @@ https://neetcode.io/practice
 | [0152-maximum-product-subarray](https://github.com/steam6879/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/steam6879/Leethub/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
@@ -263,6 +264,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
