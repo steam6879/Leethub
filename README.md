@@ -121,6 +121,7 @@ https://neetcode.io/practice
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/steam6879/Leethub/tree/master/0189-rotate-array) |
 ## String
@@ -128,6 +129,7 @@ https://neetcode.io/practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/steam6879/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -257,4 +259,12 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
