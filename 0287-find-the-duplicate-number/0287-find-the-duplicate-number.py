@@ -1,7 +1,3 @@
-from collections import defaultdict
-from typing import List  # Python 3.8 이하를 위한 타입 힌트
-
-
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
         m = defaultdict(int)
