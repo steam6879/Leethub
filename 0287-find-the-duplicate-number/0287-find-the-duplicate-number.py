@@ -1,11 +1,22 @@
+from collections import defaultdict
+from typing import List
+
+
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        m = defaultdict(int)
+        slow = nums[0]
+        fast = nums[0]
 
-        for num in nums:
-            if m[num] >= 1:  # 중복 검사 수정
-                return num
+        while True:
+            slow = nums[slow]
+            fast = nums[nums[fast]]
 
-            m[num] += 1
+            if slow == fast:
+                break
 
-        return None  # else 블록 제거
+        slow = nums[0]
+        while slow != fast:
+            slow = nums[slow]
+            fast = nums[fast]
+
+        return fast
