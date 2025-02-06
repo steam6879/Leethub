@@ -1,22 +1,10 @@
 class Solution:
-    def lengthOfLIS(self, nums: list[int]) -> int:
-        if not nums: return 0
-
-        sub = []
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        sub = []  # This will store the smallest possible tail of an increasing subsequence
         for num in nums:
-            if not sub or num > sub[-1]:
-                sub.append(num)
-
+            idx = bisect_left(sub, num)  # Find the index to replace or append
+            if idx == len(sub):
+                sub.append(num)  # Extend the subsequence
             else:
-                left, right = 0, len(sub) - 1
-                while left <= right:
-                    mid = (left + right) // 2
-
-                    if sub[mid] < num:
-                        left = mid + 1
-                    else:
-                        right = mid - 1
-                
-                sub[left] = num
-        
+                sub[idx] = num  # Replace to maintain optimal subsequence
         return len(sub)
