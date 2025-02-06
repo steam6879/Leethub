@@ -37,6 +37,7 @@ https://neetcode.io/practice
 | [0200-number-of-islands](https://github.com/steam6879/Leethub/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/steam6879/Leethub/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
@@ -97,6 +98,7 @@ https://neetcode.io/practice
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/steam6879/Leethub/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,6 +222,7 @@ https://neetcode.io/practice
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/steam6879/Leethub/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Interactive
@@ -264,6 +267,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
