@@ -43,6 +43,7 @@ https://neetcode.io/practice
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ https://neetcode.io/practice
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ https://neetcode.io/practice
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +132,7 @@ https://neetcode.io/practice
 | [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/steam6879/Leethub/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/steam6879/Leethub/tree/master/0189-rotate-array) |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -276,4 +280,16 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
