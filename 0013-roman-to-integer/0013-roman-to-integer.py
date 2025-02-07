@@ -9,11 +9,11 @@ class Solution:
              "D": 500,
              "M": 1000}
 
-        for i, roman in enumerate(s):
-            if i + 1 < len(s) and m[roman] < m[s[i + 1]]:
-                ans -= m[roman]
+        for i in range(len(s)):
+            if i + 1 < len(s) and m[s[i]] < m[s[i + 1]]:
+                ans -= m[s[i]]
 
             else:
-                ans += m[roman]
+                ans += m[s[i]]
 
         return ans
