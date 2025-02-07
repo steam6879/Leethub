@@ -41,6 +41,7 @@ https://neetcode.io/practice
 | [0300-longest-increasing-subsequence](https://github.com/steam6879/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/steam6879/Leethub/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/steam6879/Leethub/tree/master/0733-flood-fill) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
@@ -59,6 +60,7 @@ https://neetcode.io/practice
 | [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/steam6879/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/steam6879/Leethub/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/steam6879/Leethub/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ https://neetcode.io/practice
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/steam6879/Leethub/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/steam6879/Leethub/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
@@ -95,6 +98,7 @@ https://neetcode.io/practice
 | ------- |
 | [0169-majority-element](https://github.com/steam6879/Leethub/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/steam6879/Leethub/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +123,7 @@ https://neetcode.io/practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/steam6879/Leethub/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/steam6879/Leethub/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 ## Union Find
 |  |
 | ------- |
@@ -287,6 +292,7 @@ https://neetcode.io/practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/steam6879/Leethub/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/steam6879/Leethub/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
