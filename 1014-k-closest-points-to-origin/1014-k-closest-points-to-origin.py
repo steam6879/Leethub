@@ -14,4 +14,4 @@ class Solution:
             else:
                 heapq.heappushpop(heap, (-distance, x, y))
 
-        return [(x, y) for (_, x, y) in heap]
+        return [[x, y] for (_, x, y) in heap]
