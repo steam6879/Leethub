@@ -26,6 +26,7 @@ https://neetcode.io/practice
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/steam6879/Leethub/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/steam6879/Leethub/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/steam6879/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steam6879/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ https://neetcode.io/practice
 | ------- |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/steam6879/Leethub/tree/master/0113-path-sum-ii) |
 ## Greedy
@@ -286,6 +288,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/steam6879/Leethub/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/steam6879/Leethub/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/steam6879/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/steam6879/Leethub/tree/master/0338-counting-bits) |
 ## Simulation
