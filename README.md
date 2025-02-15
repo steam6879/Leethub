@@ -20,6 +20,7 @@ https://neetcode.io/practice
 | [0015-3sum](https://github.com/steam6879/Leethub/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/steam6879/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/steam6879/Leethub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/steam6879/Leethub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/steam6879/Leethub/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ https://neetcode.io/practice
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/steam6879/Leethub/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/steam6879/Leethub/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/steam6879/Leethub/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/steam6879/Leethub/tree/master/0113-path-sum-ii) |
 ## Greedy
